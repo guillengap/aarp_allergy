@@ -3,5 +3,5 @@
 ## Contest: Hacking Menopause
 ## Folders:
 ### dust_mites_allergy
-### sun_allergy
 ### food_allergies
+### sun_allergy
